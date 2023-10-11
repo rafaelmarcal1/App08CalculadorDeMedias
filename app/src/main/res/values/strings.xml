@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App08Version3</string>
+    <string name="valores">Valores\n</string>
+    <string name="valor_1">Valor 1</string>
+    <string name="valor_2">Valor 2</string>
+    <string name="valor_3">Valor 3</string>
+    <string name="valor_4">Valor 4</string>
+    <string name="valor_5">Valor 5</string>
+    <string name="tipo_de_m_dia">Tipo de Média:</string>
+    <string name="aritm_tica">Aritmética</string>
+    <string name="ponderada">Ponderada</string>
+    <string name="harm_nica">Harmônica</string>
+    <string name="calcular_m_dia">Calcular Média</string>
+</resources>
